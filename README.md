@@ -2,7 +2,7 @@
 
 ### There is many instresting open source software delivred has is.
 
-Hi realy hope you will enjoy my work as a developer.
+I hope you will enjoy walking around here.
 
 <!--
 **mabyre/mabyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
