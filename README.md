@@ -22,6 +22,6 @@ Use cool emoj
 
 ### My Blogs
 
-[C#.NET](https://mabyre.github.io/_post](https://csharp-dotnet.sodevlog.com/)
+* [C#.NET](https://csharp-dotnet.sodevlog.com/)
 
 What i'm actually doing is top secret. I can tell you but you will disappear in smoke. Otherwise go around here I have collected and/or developed tons of interesting projects just ask me.
