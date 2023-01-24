@@ -38,4 +38,4 @@ Some in french, but you can translate thanks to Google Translate (and AI) by cho
 
 ### Help
 
-[Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
+* [Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
