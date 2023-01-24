@@ -36,4 +36,4 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 
 Some in french, but you can translate thanks to Google Translate (and AI) by choosing your language in the top
 
-
+[Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
