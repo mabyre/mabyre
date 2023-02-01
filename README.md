@@ -29,12 +29,16 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 
 ### My Blogs
 
-* [C#.NET](https://csharp-dotnet.sodevlog.com/)
-* [ASP.NET C#](https://asp-dotnet-csharp.sodevlog.com/)
-* [Admin Windows](https://administration-windows.sodevlog.com/)
-* [Soft Dev Tools](https://outils-developpement-logiciel.sodevlog.com/)
+- [C#.NET](https://csharp-dotnet.sodevlog.com/)
+- [ASP.NET C#](https://asp-dotnet-csharp.sodevlog.com/)
+- [Admin Windows](https://administration-windows.sodevlog.com/)
+- [Soft Dev Tools](https://outils-developpement-logiciel.sodevlog.com/)
 
 Some in french, but you can translate thanks to Google Translate (and AI) by choosing your language in the top
+
+## My Documentation
+
+- [My Documentation](https://github.com/mabyre/docs)
 
 ### Help
 
