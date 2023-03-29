@@ -1,6 +1,6 @@
 ### Hi you there (Hye) 👋 welcome
 
-There's millions to be made here.
+There's millions to be made here, joking but ... anyway, who can tell
 
 ### There is many instresting open source software delivred has is.
 
