@@ -2,7 +2,7 @@
 
 There's millions to be made here, joking but ... anyway, who can tell software industry is sometimes very surprising.
 
-### There is many instresting open source software delivred has is.
+### There is many instresting open source software delivred has is
 
 Hope you will enjoy walking around here.
 
