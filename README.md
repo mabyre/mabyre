@@ -1,4 +1,4 @@
-### Hi you there (Hye) 👋 welcome
+### Hi you there (Hye) 👋 you're welcome
 
 There's millions to be made here, joking but ... anyway, who can tell software industry is sometimes very surprising.
 
