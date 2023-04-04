@@ -36,7 +36,7 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 - [Admin Windows](https://administration-windows.sodevlog.com/)
 - [Soft Dev Tools](https://outils-developpement-logiciel.sodevlog.com/)
 
-Some in french, but you can translate thanks to Google Translate (and AI) by choosing your language in the top
+Some in french, but you can translate thanks to Google Translate (and AI) by choosing your language above the site.
 
 ## My Documentation
 
