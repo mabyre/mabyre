@@ -46,6 +46,6 @@ Some in french, but you can translate thanks to Google Translate (and AI) by cho
 
 - [Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
 
-I used many meta languages, like working with mediawiki (is not markdown :pensive:) so it's usefull to have a reminder on markdown syntaxe :smile:
+I used many meta languages, like working with [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki/fr) (is not markdown :pensive:) so it's usefull to have a reminder on markdown syntaxe :smile:
 
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
