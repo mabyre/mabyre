@@ -50,3 +50,7 @@ Some in french, but you can translate thanks to Google Translate (and AI) by cho
 I used many meta languages, like working with [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki/fr) (is not markdown :pensive:) so it's useful to have a reminder on markdown syntaxe :smile:
 
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+
+- [Special Caracters like ` (096)](https://www.fred4.com/caracteres-speciaux/)
+
+
