@@ -33,6 +33,7 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 
 - [C#.NET](https://csharp-dotnet.sodevlog.com/)
 - [ASP.NET C#](https://asp-dotnet-csharp.sodevlog.com/)
+- [SQL Server Tips and Tricks](https://sql-server-astuces.sodevlog.com/)
 - [Admin Windows](https://administration-windows.sodevlog.com/)
 - [Software Development Tools](https://outils-developpement-logiciel.sodevlog.com/)
 - [Software Methodology](https://methodologies-logicielles.sodevlog.com/)
