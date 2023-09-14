@@ -42,7 +42,7 @@ Some in french, but you can translate thanks to Google Translate (and AI) by cho
 
 ## My Documentation
 
-- [My Documentation](https://github.com/mabyre/docs)
+- [My Documentation](https://mabyre.github.io/docs/)
 
 ### Help
 
