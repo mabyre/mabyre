@@ -54,4 +54,11 @@ I used many meta languages, like working with [MediaWiki](https://www.mediawiki.
 
 - [Special Caracters like ` (Alt+096)](https://www.fred4.com/caracteres-speciaux/)
 
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabyre&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabyre&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
+</p> 
+
 
