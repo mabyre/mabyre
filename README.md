@@ -38,7 +38,7 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 - [Software Development Tools](https://outils-developpement-logiciel.sodevlog.com/)
 - [Software Methodology](https://methodologies-logicielles.sodevlog.com/)
 
-Some in french, but you can translate thanks to Google Translate (and AI) by choosing your language above the site. It's really cool, you can choose for example Lituanien, Espèranto, Slovène languages that I don't know even a word :smile:. 
+Some in french, but you can translate thanks to **Google Translate** (and AI) by choosing your language above the site. It's really cool, you can choose for example Lituanien, Espèranto, Slovène languages that I don't know even a word :smile:. 
 
 ## My Documentation
 
