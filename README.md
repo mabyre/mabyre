@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Use cool emoj
 -->
 
-- 🔭 I’m currently working on ... ;)
+- 🔭 I’m currently working on ... :sunglasses:
 
 What i'm actually doing is top secret. I can tell you but you will disappear in smoke. Otherwise go around here I have collected and/or developed tons of interesting projects just ask me for explainations.
 
