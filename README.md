@@ -1,6 +1,6 @@
 ### Hye welcome on board 👋
 
-There's millions to be made here, joking but ... anyway, who can tell, software industry is sometimes very surprising.
+There's billions to be made around here, yes ... i'm joking but ... anyway, who can tell, software industry is sometimes very surprising.
 
 ### There is many instresting open source software delivred has is
 
