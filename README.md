@@ -53,6 +53,7 @@ I used many meta languages, like working with [MediaWiki](https://www.mediawiki.
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 - [Special Caracters like ` (Alt+096)](https://www.fred4.com/caracteres-speciaux/)
+- Alt+128 Ç
 
 📈 **My GitHub Stats:**
 
