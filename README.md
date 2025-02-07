@@ -29,6 +29,14 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 - ⚡ Fun fact: ...
 -->
 
+### I'm hard working on 
+
+Software in Python for traders
+- [TradingInPython](https://github.com/SoDevLog/PyTrading/)
+
+Blog dedicated to the software solution
+- [Trading and data analyses](https://www.trading-et-data-analyses.com/)
+
 ### My Blogs
 
 - [C#.NET](https://csharp-dotnet.sodevlog.com/)
