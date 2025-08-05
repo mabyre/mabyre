@@ -31,7 +31,7 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 
 ### I'm hard working on 
 
-Software in Python for traders
+Software in Python for technical traders
 - [TradingInPython](https://github.com/SoDevLog/PyTrading/)
 
 Blog dedicated to the software solution
