@@ -29,7 +29,10 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 - ⚡ Fun fact: ...
 -->
 
-### I'm hard working on 
+### I'm hard working on
+
+TradingInPython Plateform's Documentation
+- [TradingInPython's Doc](https://github.com/mabyre/TradingInPython-doc)
 
 Software in Python for technical traders
 - [TradingInPython](https://github.com/SoDevLog/PyTrading/)
