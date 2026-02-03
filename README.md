@@ -32,7 +32,7 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 ### I'm hard working on
 
 TradingInPython Plateform's Documentation
-- [TradingInPython's Doc](https://github.com/mabyre/TradingInPython-doc)
+- [TradingInPython's Doc](https://trading-in-python.sodevlog.com/)
 
 Software in Python for technical traders
 - [TradingInPython](https://github.com/SoDevLog/PyTrading/)
@@ -59,18 +59,9 @@ Some in french, but you can translate thanks to **Google Translate** (and AI) by
 
 - [Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
 
-I used many meta languages, like working with [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki/fr) (is not markdown :pensive:) so it's useful to have a reminder on markdown syntaxe :smile:
+I used many meta languages, like working with [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki/fr) (but it's not markdown :pensive:)
 
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 - [Special Caracters like ` (Alt+096)](https://www.fred4.com/caracteres-speciaux/)
-- Alt+128 Ç
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabyre&show_icons=true&hide_border=true&&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabyre&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
-</p> 
-
 
