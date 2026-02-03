@@ -31,11 +31,11 @@ What i'm actually doing is top secret. I can tell you but you will disappear in 
 
 ### I'm hard working on
 
-TradingInPython Plateform's Documentation
-- [TradingInPython's Doc](https://trading-in-python.sodevlog.com/)
-
 Software in Python for technical traders
 - [TradingInPython](https://github.com/SoDevLog/PyTrading/)
+
+TradingInPython Plateform's Documentation
+- [TradingInPython's Doc](https://trading-in-python.sodevlog.com/)
 
 Blog dedicated to the software solution
 - [Trading and data analyses](https://www.trading-et-data-analyses.com/)
